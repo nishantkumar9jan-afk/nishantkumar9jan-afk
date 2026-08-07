@@ -89,8 +89,7 @@
 ---
 
 # 🏆 GitHub Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishantkumar9jan-afk&theme=onedark&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nishantkumar9jan-afk&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 # 📈 Contribution Graph
 
