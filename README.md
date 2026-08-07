@@ -69,7 +69,9 @@
 <a href="https://leetcode.com/u/Nishant3929/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
-
+<a href="https://www.codechef.com/users/eager_team_56">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 </p>
 
 ---
