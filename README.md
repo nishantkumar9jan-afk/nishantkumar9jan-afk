@@ -76,9 +76,7 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantkumar9jan-afk&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
----
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nishantkumar9jan-afk&show_icons=true&theme=tokyonight"/>
 
 # 🔥 GitHub Streak
 
@@ -92,7 +90,7 @@
 
 # 🏆 GitHub Trophy
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=nishantkumar9jan-afk&theme=tokyonight&no-frame=true&margin-w=15)
+<img src="https://github-profile-trophy.vercel.app/?username=nishantkumar9jan-afk&theme=onedark&no-frame=true"/>
 
 # 📈 Contribution Graph
 
