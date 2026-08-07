@@ -1,57 +1,75 @@
-<h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
+<h1 align="center">👋 Hi, I'm Nishant Kumar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;CSE+(Data+Science)+Student;Open+Source+Learner;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</p>
 
 <h3 align="center">
-🚀 B.Tech CSE (Data Science) Student | Full Stack Developer | Open Source Enthusiast
+🚀 Full Stack Developer | CSE (Data Science) Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;DSA+Enthusiast;React+%7C+Node.js+Learner;Future+Software+Engineer" />
+<i>"Building scalable web applications and solving real-world problems through technology."</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
 🎓 **ABES Engineering College**
 
-💻 **Branch:** Computer Science & Engineering (Data Science)
+💻 **Branch:** CSE (Data Science)
 
 🌱 **Currently Learning**
-- Data Structures & Algorithms
 - React.js
 - Node.js
-- Git & GitHub
+- Data Structures & Algorithms
+- System Design
+
+💡 **Interested In**
+- Full Stack Development
+- AI & Machine Learning
+- Competitive Programming
+- Open Source
 
 🚀 **Project**
-- 🛒 Amazon Clone
+- Amazon Clone
 
-🎯 **Career Goal**
-Become a Software Engineer and contribute to Open Source.
-
-📫 **Email:** nishantkumar9jan@gmail.com
+📧 **Email**
+- nishantkumar9jan@gmail.com
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,git,github,vscode,mysql" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,mysql,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/nishantkumar9jan-afk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+
+<a href="https://github.com/nishantkumar9jan-afk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/nishant-kumar-18a95036a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/Nishant3929/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
+
 </p>
 
 ---
@@ -82,7 +100,7 @@ Become a Software Engineer and contribute to Open Source.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nishantkumar9jan-afk&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nishantkumar9jan-afk&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -98,25 +116,37 @@ Become a Software Engineer and contribute to Open Source.
 
 ---
 
-# 💻 Featured Project
+# 🚀 Featured Project
 
-### 🛒 Amazon Clone
+## 🛒 Amazon Clone
 
-✔ Responsive UI
+✅ Responsive UI
 
-✔ HTML
+✅ HTML, CSS & JavaScript
 
-✔ CSS
+✅ Shopping Cart
 
-✔ JavaScript
-
-✔ Modern Design
+✅ Modern Design
 
 ---
 
-# 💡 Quote
+# 💻 Open Source & Coding Journey
 
-> "Code. Learn. Build. Repeat."
+✔ Solving DSA Problems
+
+✔ Learning React & Node.js
+
+✔ Building Real Projects
+
+✔ Exploring Open Source
+
+✔ Improving Problem Solving Skills
+
+---
+
+# ⚡ Fun Fact
+
+> 💙 "Code. Learn. Build. Repeat."
 
 ---
 
@@ -127,5 +157,7 @@ Become a Software Engineer and contribute to Open Source.
 </p>
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile ⭐
+
 </h3>
