@@ -87,11 +87,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishantkumar9jan-afk&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantkumar9jan-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantkumar9jan-afk&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantkumar9jan-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🔥 GitHub Streak
