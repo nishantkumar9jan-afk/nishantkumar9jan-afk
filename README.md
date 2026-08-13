@@ -84,21 +84,20 @@
 ✅ Cyber Security Fundamentals – Cisco
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishantkumar9jan-afk&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishantkumar9jan-afk&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantkumar9jan-afk&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantkumar9jan-afk&layout=compact&theme=radical" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nishantkumar9jan-afk&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=nishantkumar9jan-afk&theme=radical" />
 </p>
 
 ## 👀 Profile Views
